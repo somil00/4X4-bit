@@ -8,4 +8,5 @@ Following is the shematic for 4X4 bit Array Multiplier : (A3 A2 A1 A0) X (B3 B2 
 
 
 "HA" Represents the Half Adder
+
 "FA" Represents the Full Adder
